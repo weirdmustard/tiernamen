@@ -39,6 +39,7 @@ public class Main {
         words.add("Echter Kerbel");
         words.add("Ziegelroter Schwefelkopf");
         words.add("Floh-Knöterich");
+        words.add("Zahnstocher-Knorpelmöhre");
 
         Random rand = new Random();
         String randomWord = words.get(rand.nextInt(words.size()));
